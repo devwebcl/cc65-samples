@@ -17,12 +17,10 @@ You need to set system:
 ```
 
 
-### Todos
+### TODO
 
- - Write Tests
- - Rethink Github Save
- - Add Code Comments
- - Add Night Mode
+ - add more examples :)
+
 
 
 ### License
