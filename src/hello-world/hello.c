@@ -10,7 +10,7 @@
 main() {  
    
     printf("Hello world!\n\n" );
-	printf("free mem=%d \n\n", _heapmemavail() );
+    printf("free mem=%d \n\n", _heapmemavail() );
     printf("float=%d\n", sizeof(float) );
     printf("long=%d\n", sizeof(long) );
     printf("double=%d\n", sizeof(double) );
@@ -23,3 +23,4 @@ main() {
 
 
 }
+
