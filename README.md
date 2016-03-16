@@ -6,7 +6,7 @@ Each program will have a reference pointing to the original source.
 ### Examples
 
  * Hello World: it shows size of different data types, and free memory left 
-   * [tree/master/src/hello-world/README.md] [PlDb]
+   * [tree/master/src/hello-world/README.md] (tree/master/src/hello-world/README.md)
 
 
 ### Compilation
@@ -26,9 +26,3 @@ You need to set system:
 ### License
 
 MIT
-
-
-
-
-
-
