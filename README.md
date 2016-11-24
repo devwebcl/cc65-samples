@@ -5,8 +5,8 @@ Each program will have a reference pointing to the original source.
 
 ### Examples
 
- * Hello World: it shows size of different data types, and free memory left
- * Ghostbusters Account: it generates accounts for Ghostbusters video game
+ * [Hello World](https://github.com/devwebcl/cc65-samples/blob/master/src/hello-world/hello.c): it shows size of different data types, and free memory left
+ * [Ghostbusters Account](https://github.com/devwebcl/cc65-samples/blob/master/src/ghostbusters/ghostbcc.c): it generates accounts for Ghostbusters video game
  
  
 
@@ -21,6 +21,7 @@ You need to set system:
 ### TODO
 
  - add more examples :)
+ - add README to each sample
 
 
 
