@@ -16,9 +16,9 @@ void main() {
 
 	char *string2 = "hola";
 
-	printf("Hello world!\n\n" );
-	printf("free mem=%d \n\n", _heapmemavail() );
-	printf("free mem=%d \n\n", _heapmaxavail() );
+    printf("Hello world!\n\n" );
+    printf("free mem=%d \n\n", _heapmemavail() );
+    printf("free mem=%d \n\n", _heapmaxavail() );
     printf("float=%d\n", sizeof(float) );
     printf("long=%d\n", sizeof(long) );
     printf("double=%d\n", sizeof(double) );
