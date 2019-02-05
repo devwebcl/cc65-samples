@@ -5,7 +5,7 @@ Each program will have a reference pointing to the original source.
 
 ### Examples
 
- * [Hello World](https://github.com/devwebcl/cc65-samples/blob/master/src/hello-world/hello.c): it shows size of different data types/size, and free memory left.
+ * [Hello World](https://github.com/devwebcl/cc65-samples/blob/master/src/hello-world/hello.c): it shows size of different data types/size,free memory left, [prototype](https://github.com/devwebcl/cc65-samples/blob/master/src/hello-world/prototype.c).
  * [Ghostbusters Account](https://github.com/devwebcl/cc65-samples/blob/master/src/ghostbusters/ghostbcc.c): it generates accounts for Ghostbusters video game
  * [Cloak of Darkness](https://github.com/devwebcl/cc65-samples/blob/master/src/cloak/cloak.c): the hello-world text adventure game ported to a8 through Scott Adams engine.
  * [Roman Numbers](https://github.com/devwebcl/cc65-samples/blob/master/src/romans/romans.c): clever solution to convert from base 10 to roman numbers. This solution comes from [Knuth's TeX](http://mirrors.ctan.org/systems/knuth/dist/tex/tex.web).
