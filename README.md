@@ -12,7 +12,7 @@ Each program will have a reference pointing to the original source.
  * [C Pointers](https://github.com/devwebcl/cc65-samples/blob/master/src/pointers/pointers.c): Basic examples of pointers for int, arrays, strings, etc.
  * [Knuth–Morris–Pratt algorithm](https://github.com/devwebcl/cc65-samples/blob/master/src/kmp/kmp.c): Knuth–Morris–Pratt algorithm implementation.
  * [Dijkstra's shortest path algorithm](https://github.com/devwebcl/cc65-samples/blob/master/src/dijkstra/dijkstra.c): Dijkstra's shortest path algorithm implementation.
- * [Pi -spigot-](https://github.com/devwebcl/cc65-samples/blob/master/src/pi/pi-spigot-algorithm.c):  * [Dijkstra's shortest path algorithm](https://github.com/devwebcl/cc65-samples/blob/master/src/dijkstra/dijkstra.c): Dijkstra's shortest path algorithm implementation.
+ * [Pi -spigot-](https://github.com/devwebcl/cc65-samples/blob/master/src/pi/pi-spigot-algorithm.c):  Pi -spigot-
 
  
 
