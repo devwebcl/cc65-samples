@@ -13,8 +13,8 @@ int main()
    long c;
  
    //#asm
-//di
-//ticks_start:
+      //di
+      //ticks_start:
    //#endasm
  
    c = 0;
@@ -47,7 +47,7 @@ int main()
    }
  
    //#asm
-//ticks_end:
+      //ticks_end:
    //#endasm
  
    return 0;
